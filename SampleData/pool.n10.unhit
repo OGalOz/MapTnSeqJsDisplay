@@ -1,0 +1,689 @@
+locusId	sysName	type	scaffoldId	name	desc	GC	nTA	expess
+Ac3H11_424	NA	1	scaffold5/10	NA	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	0.6379	9	FALSE
+Ac3H11_3566	NA	1	scaffold5/34	NA	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	0.6762	14	FALSE
+Ac3H11_1794	NA	1	scaffold5/6	NA	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)	0.6675	10	FALSE
+Ac3H11_1685	NA	1	scaffold5/19	NA	16S rRNA processing protein RimM	0.6422	4	FALSE
+Ac3H11_2484	NA	1	scaffold5/16	NA	18K peptidoglycan-associated outer membrane lipoprotein; Peptidoglycan-associated lipoprotein precursor; Outer membrane protein P6; OmpA/MotB precursor	0.6114	6	FALSE
+Ac3H11_1312	NA	1	scaffold5/20	NA	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	0.7212	5	FALSE
+Ac3H11_332	NA	1	scaffold5/10	NA	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	0.7	0	FALSE
+Ac3H11_331	NA	1	scaffold5/10	NA	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)	0.7108	5	FALSE
+Ac3H11_3373	NA	1	scaffold5/18	NA	2-dehydropantoate 2-reductase (EC 1.1.1.169)	0.6984	1	FALSE
+Ac3H11_289	NA	1	scaffold5/29	NA	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)	0.6522	3	FALSE
+Ac3H11_2323	NA	1	scaffold5/16	NA	2-methylcitrate dehydratase FeS dependent (EC 4.2.1.79)	0.673	23	FALSE
+Ac3H11_2044	NA	1	scaffold5/16	NA	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)	0.7023	1	FALSE
+Ac3H11_4003	NA	1	scaffold5/0	NA	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)	0.6806	9	FALSE
+Ac3H11_2467	NA	1	scaffold5/16	NA	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	0.6243	31	FALSE
+Ac3H11_2296	NA	1	scaffold5/16	NA	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	0.6427	8	FALSE
+Ac3H11_2570	NA	1	scaffold5/16	NA	3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64)	0.5809	11	FALSE
+Ac3H11_2387	NA	1	scaffold5/16	NA	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)	0.7179	3	FALSE
+Ac3H11_1859	NA	1	scaffold5/16	NA	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59)	0.6264	3	FALSE
+Ac3H11_429	NA	1	scaffold5/10	NA	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	0.6054	4	FALSE
+Ac3H11_2740	NA	1	scaffold5/16	NA	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	0.6757	2	FALSE
+Ac3H11_1578	NA	1	scaffold5/19	NA	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	0.6428	5	FALSE
+Ac3H11_1727	NA	1	scaffold5/19	NA	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	0.6607	3	FALSE
+Ac3H11_1860	NA	1	scaffold5/16	NA	3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)	0.6634	8	FALSE
+Ac3H11_1576	NA	1	scaffold5/19	NA	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)	0.6059	11	FALSE
+Ac3H11_1580	NA	1	scaffold5/19	NA	3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)	0.6462	4	FALSE
+Ac3H11_3453	NA	1	scaffold5/34	NA	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	0.5667	10	FALSE
+Ac3H11_1772	NA	1	scaffold5/19	NA	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)	0.6637	6	FALSE
+Ac3H11_686	NA	1	scaffold5/23	NA	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	0.675	4	FALSE
+Ac3H11_787	NA	1	scaffold5/32	NA	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	0.6521	11	FALSE
+Ac3H11_4747	NA	1	scaffold5/15	NA	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	0.7211	2	FALSE
+Ac3H11_2576	NA	1	scaffold5/16	NA	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19) / Cytidylate kinase (EC 2.7.4.25)	0.6632	21	FALSE
+Ac3H11_3123	NA	1	scaffold5/36	NA	50S ribosomal subunit maturation GTPase RbgA (B. subtilis YlqF)	0.6728	7	FALSE
+Ac3H11_387	NA	1	scaffold5/10	NA	ABC transporter ATP-binding protein	0.6149	12	FALSE
+Ac3H11_1902	NA	1	scaffold5/16	NA	ABC transporter ATP-binding protein	0.6224	10	FALSE
+Ac3H11_1901	NA	1	scaffold5/16	NA	ABC transporter permease protein	0.6129	14	FALSE
+Ac3H11_48	NA	1	scaffold5/5	NA	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)	0.638	10	FALSE
+Ac3H11_1536	NA	1	scaffold5/19	NA	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)	0.6449	6	FALSE
+Ac3H11_1907	NA	1	scaffold5/16	NA	Acetylglutamate kinase (EC 2.7.2.8)	0.631	5	FALSE
+Ac3H11_1332	NA	1	scaffold5/20	NA	Acetylornithine aminotransferase (EC 2.6.1.11)	0.6617	5	FALSE
+Ac3H11_3150	NA	1	scaffold5/36	NA	Aconitate hydratase 2 (EC 4.2.1.3) @ 2-methylisocitrate dehydratase (EC 4.2.1.99)	0.644	16	FALSE
+Ac3H11_430	NA	1	scaffold5/10	NA	Acyl-[acyl-carrier-protein]--UDP-N- acetylglucosamine O-acyltransferase (EC 2.3.1.129)	0.6527	6	FALSE
+Ac3H11_2321	NA	1	scaffold5/16	NA	Acyl-CoA hydrolase (EC 3.1.2.20)	0.6641	1	FALSE
+Ac3H11_2623	NA	1	scaffold5/16	NA	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY	0.6681	7	FALSE
+Ac3H11_4242	NA	1	scaffold5/2	NA	Acylphosphate phosphohydrolase (EC 3.6.1.7), putative	0.7129	1	FALSE
+Ac3H11_4482	NA	1	scaffold5/1	NA	Adenine-specific DNA methyltransferase	0.5688	11	FALSE
+Ac3H11_3043	NA	1	scaffold5/26	NA	Adenosylhomocysteinase (EC 3.3.1.1)	0.6333	8	FALSE
+Ac3H11_2388	NA	1	scaffold5/16	NA	Adenylate kinase (EC 2.7.4.3)	0.6591	7	FALSE
+Ac3H11_1232	NA	1	scaffold5/13	NA	Adenylosuccinate lyase (EC 4.3.2.2)	0.6357	13	FALSE
+Ac3H11_1805	NA	1	scaffold5/6	NA	Adenylosuccinate synthetase (EC 6.3.4.4)	0.5977	18	FALSE
+Ac3H11_3382	NA	1	scaffold5/18	NA	Alanine racemase, catabolic (EC 5.1.1.1)	0.7079	6	FALSE
+Ac3H11_4166	NA	1	scaffold5/0	NA	Alanyl-tRNA synthetase (EC 6.1.1.7)	0.6488	23	TRUE
+Ac3H11_825	NA	1	scaffold5/32	NA	Alginate regulatory protein AlgP	0.6552	0	FALSE
+Ac3H11_1884	NA	1	scaffold5/16	NA	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	0.6645	12	FALSE
+Ac3H11_1885	NA	1	scaffold5/16	NA	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	0.6113	8	FALSE
+Ac3H11_4914	NA	1	scaffold5/30	NA	Antibiotic biosynthesis monooxygenase	0.7043	3	FALSE
+Ac3H11_1858	NA	1	scaffold5/16	NA	Apolipoprotein N-acyltransferase (EC 2.3.1.-) / Copper homeostasis protein CutE	0.6849	16	FALSE
+Ac3H11_4270	NA	1	scaffold5/2	NA	Arabinose 5-phosphate isomerase (EC 5.3.1.13)	0.7076	2	FALSE
+Ac3H11_2914	NA	1	scaffold5/16	NA	Arginine decarboxylase (EC 4.1.1.19); Ornithine decarboxylase (EC 4.1.1.17); Lysine decarboxylase (EC 4.1.1.18)	0.6269	26	FALSE
+Ac3H11_1632	NA	1	scaffold5/19	NA	Argininosuccinate lyase (EC 4.3.2.1)	0.6585	8	FALSE
+Ac3H11_2616	NA	1	scaffold5/16	NA	Argininosuccinate synthase (EC 6.3.4.5)	0.6428	16	FALSE
+Ac3H11_722	NA	1	scaffold5/32	NA	Arginyl-tRNA synthetase (EC 6.1.1.19)	0.6469	26	TRUE
+Ac3H11_4115	NA	1	scaffold5/0	NA	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)	0.6274	13	FALSE
+Ac3H11_4537	NA	1	scaffold5/1	NA	Arsenate reductase (EC 1.20.4.1)	0.6572	1	FALSE
+Ac3H11_3978	NA	1	scaffold5/0	NA	Aspartate carbamoyltransferase (EC 2.1.3.2)	0.6469	4	FALSE
+Ac3H11_1530	NA	1	scaffold5/19	NA	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	0.6468	6	FALSE
+Ac3H11_4087	NA	1	scaffold5/0	NA	Aspartokinase (EC 2.7.2.4)	0.628	11	FALSE
+Ac3H11_4801	NA	1	scaffold5/15	NA	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)	0.6389	13	TRUE
+Ac3H11_3338	NA	1	scaffold5/18	NA	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	0.6821	14	FALSE
+Ac3H11_3339	NA	1	scaffold5/18	NA	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)	0.6308	16	FALSE
+Ac3H11_3337	NA	1	scaffold5/18	NA	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)	0.6333	1	FALSE
+Ac3H11_4722	NA	1	scaffold5/15	NA	ATP phosphoribosyltransferase (EC 2.4.2.17)	0.6264	7	FALSE
+Ac3H11_1804	NA	1	scaffold5/6	NA	ATP phosphoribosyltransferase regulatory subunit (EC 2.4.2.17)	0.6284	15	FALSE
+Ac3H11_2095	NA	1	scaffold5/16	NA	ATP synthase alpha chain (EC 3.6.3.14)	0.6293	21	FALSE
+Ac3H11_2093	NA	1	scaffold5/16	NA	ATP synthase beta chain (EC 3.6.3.14)	0.6198	19	FALSE
+Ac3H11_2096	NA	1	scaffold5/16	NA	ATP synthase delta chain (EC 3.6.3.14)	0.6372	3	FALSE
+Ac3H11_2092	NA	1	scaffold5/16	NA	ATP synthase epsilon chain (EC 3.6.3.14)	0.6115	1	FALSE
+Ac3H11_2099	NA	1	scaffold5/16	NA	ATP synthase F0 sector subunit a	0.5916	8	FALSE
+Ac3H11_2097	NA	1	scaffold5/16	NA	ATP synthase F0 sector subunit b	0.6178	0	FALSE
+Ac3H11_2094	NA	1	scaffold5/16	NA	ATP synthase gamma chain (EC 3.6.3.14)	0.594	11	FALSE
+Ac3H11_2100	NA	1	scaffold5/16	NA	ATP synthase protein I	0.6203	1	FALSE
+Ac3H11_936	NA	1	scaffold5/25	NA	ATP-dependent Clp protease ATP-binding subunit ClpX	0.6027	10	FALSE
+Ac3H11_935	NA	1	scaffold5/25	NA	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	0.6174	4	FALSE
+Ac3H11_866	NA	1	scaffold5/32	NA	ATP-dependent DNA helicase Rep	0.6525	16	FALSE
+Ac3H11_666	NA	1	scaffold5/23	NA	Bacteriophage-related DNA polymerase	0.7639	3	FALSE
+Ac3H11_2842	NA	1	scaffold5/16	NA	Biopolymer transport protein ExbD/TolR	0.6348	3	FALSE
+Ac3H11_4029	NA	1	scaffold5/0	NA	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	0.6115	3	FALSE
+Ac3H11_4028	NA	1	scaffold5/0	NA	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)	0.6422	13	FALSE
+Ac3H11_3894	NA	1	scaffold5/0	NA	Biotin synthesis protein BioC	0.6678	8	FALSE
+Ac3H11_1266	NA	1	scaffold5/13	NA	Biotin--protein ligase (EC 6.3.4.9, EC 6.3.4.10, EC 6.3.4.11, EC 6.3.4.15)	0.7041	2	FALSE
+Ac3H11_3064	NA	1	scaffold5/26	NA	BLUF domain protein	0.6516	0	FALSE
+Ac3H11_4555	NA	1	scaffold5/1	NA	Bona fide RidA/YjgF/TdcF/RutC subgroup	0.637	5	FALSE
+Ac3H11_3213	NA	1	scaffold5/36	NA	Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)	0.6976	1	FALSE
+Ac3H11_1103	NA	1	scaffold5/33	NA	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases	0.6859	2	FALSE
+Ac3H11_436	NA	1	scaffold5/10	NA	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)	0.6294	28	FALSE
+Ac3H11_435	NA	1	scaffold5/10	NA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	0.6404	10	FALSE
+Ac3H11_3855	NA	1	scaffold5/0	NA	Carboxyl-terminal protease (EC 3.4.21.102)	0.6277	12	FALSE
+Ac3H11_374	NA	1	scaffold5/10	NA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	0.6226	4	FALSE
+Ac3H11_528	NA	1	scaffold5/10	NA	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	0.6031	12	FALSE
+Ac3H11_2020	NA	1	scaffold5/16	NA	Cell division protein FtsA	0.6561	5	TRUE
+Ac3H11_442	NA	1	scaffold5/10	NA	Cell division protein FtsH (EC 3.4.24.-)	0.6104	13	TRUE
+Ac3H11_2009	NA	1	scaffold5/16	NA	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	0.6661	19	TRUE
+Ac3H11_3332	NA	1	scaffold5/18	NA	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	0.6749	21	TRUE
+Ac3H11_2008	NA	1	scaffold5/16	NA	Cell division protein FtsL	0.6978	3	TRUE
+Ac3H11_2019	NA	1	scaffold5/16	NA	Cell division protein FtsQ	0.7094	4	TRUE
+Ac3H11_2014	NA	1	scaffold5/16	NA	Cell division protein FtsW	0.6462	9	TRUE
+Ac3H11_2022	NA	1	scaffold5/16	NA	Cell division protein FtsZ (EC 3.4.24.-)	0.6707	6	TRUE
+Ac3H11_2553	NA	1	scaffold5/16	NA	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	0.6654	0	TRUE
+Ac3H11_1520	NA	1	scaffold5/19	NA	Chaperone protein DnaJ	0.6571	9	FALSE
+Ac3H11_1519	NA	1	scaffold5/19	NA	Chaperone protein DnaK	0.6308	6	FALSE
+Ac3H11_4108	NA	1	scaffold5/0	NA	Chaperone protein HscA	0.6709	19	FALSE
+Ac3H11_4109	NA	1	scaffold5/0	NA	Chaperone protein HscB	0.6473	3	FALSE
+Ac3H11_4138	NA	1	scaffold5/0	NA	Chromate transport protein ChrA	0.7136	0	FALSE
+Ac3H11_1315	NA	1	scaffold5/20	NA	Chromosomal replication initiator protein DnaA	0.6851	4	FALSE
+Ac3H11_4259	NA	1	scaffold5/2	NA	Chromosomal replication initiator protein DnaA	0.6232	21	FALSE
+Ac3H11_4953	NA	1	scaffold5/30	NA	Chromosome (plasmid) partitioning protein ParA	0.6445	4	FALSE
+Ac3H11_4949	NA	1	scaffold5/30	NA	Chromosome (plasmid) partitioning protein ParB	0.6819	3	FALSE
+Ac3H11_2317	NA	1	scaffold5/16	NA	Chromosome partition protein smc	0.6698	18	FALSE
+Ac3H11_3161	NA	1	scaffold5/36	NA	Citrate synthase (si) (EC 2.3.3.1)	0.6232	21	FALSE
+Ac3H11_4754	NA	1	scaffold5/15	NA	ClpXP protease specificity-enhancing factor / Stringent starvation protein B	0.6553	6	FALSE
+Ac3H11_1820	NA	1	scaffold5/16	NA	COG1565: Uncharacterized conserved protein	0.6801	12	FALSE
+Ac3H11_2609	NA	1	scaffold5/16	NA	Colicin V production protein	0.6401	1	FALSE
+Ac3H11_395	NA	1	scaffold5/10	NA	Copper tolerance protein	0.6749	0	FALSE
+Ac3H11_2420	NA	1	scaffold5/16	NA	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)	0.6615	11	FALSE
+Ac3H11_1348	NA	1	scaffold5/20	NA	Creatinine amidohydrolase (EC 3.5.2.10)	0.6956	4	FALSE
+Ac3H11_1811	NA	1	scaffold5/16	NA	CRISPR-associated protein, Csy1 family	0.6333	16	FALSE
+Ac3H11_1810	NA	1	scaffold5/16	NA	CRISPR-associated protein, Csy2 family	0.6749	10	FALSE
+Ac3H11_1809	NA	1	scaffold5/16	NA	CRISPR-associated protein, Csy3 family	0.6306	16	FALSE
+Ac3H11_1808	NA	1	scaffold5/16	NA	CRISPR-associated protein, Csy4 family	0.6823	4	FALSE
+Ac3H11_288	NA	1	scaffold5/29	NA	CTP synthase (EC 6.3.4.2)	0.6245	18	FALSE
+Ac3H11_2247	NA	1	scaffold5/16	NA	CTP:molybdopterin cytidylyltransferase	0.6838	0	FALSE
+Ac3H11_4112	NA	1	scaffold5/0	NA	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	0.638	6	FALSE
+Ac3H11_644	NA	1	scaffold5/28	NA	Cysteine synthase B (EC 2.5.1.47)	0.6578	6	FALSE
+Ac3H11_46	NA	1	scaffold5/5	NA	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	0.6514	12	TRUE
+Ac3H11_2974	NA	1	scaffold5/16	NA	Cytochrome c-type biogenesis protein Ccs1/ResB	0.6718	12	FALSE
+Ac3H11_2975	NA	1	scaffold5/16	NA	Cytochrome c-type biogenesis protein CcsA/ResC	0.6467	20	FALSE
+Ac3H11_1344	NA	1	scaffold5/20	NA	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)	0.706	10	FALSE
+Ac3H11_3142	NA	1	scaffold5/36	NA	Cytochrome O ubiquinol oxidase subunit I (EC 1.10.3.-)	0.6249	20	FALSE
+Ac3H11_3143	NA	1	scaffold5/36	NA	Cytochrome O ubiquinol oxidase subunit III (EC 1.10.3.-)	0.6264	8	FALSE
+Ac3H11_3144	NA	1	scaffold5/36	NA	Cytochrome O ubiquinol oxidase subunit IV (EC 1.10.3.-)	0.6296	2	FALSE
+Ac3H11_2018	NA	1	scaffold5/16	NA	D-alanine--D-alanine ligase (EC 6.3.2.4)	0.6697	10	FALSE
+Ac3H11_2142	NA	1	scaffold5/16	NA	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	0.6462	12	FALSE
+Ac3H11_312	NA	1	scaffold5/29	NA	DedA protein	0.6148	10	FALSE
+Ac3H11_1118	NA	1	scaffold5/33	NA	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	0.6178	9	FALSE
+Ac3H11_285	NA	1	scaffold5/29	NA	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	0.6532	5	FALSE
+Ac3H11_4763	NA	1	scaffold5/15	NA	Dephospho-CoA kinase (EC 2.7.1.24)	0.6876	2	FALSE
+Ac3H11_1461	NA	1	scaffold5/19	NA	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	0.6677	9	FALSE
+Ac3H11_3862	NA	1	scaffold5/0	NA	Diaminopimelate decarboxylase (EC 4.1.1.20)	0.6803	9	FALSE
+Ac3H11_1993	NA	1	scaffold5/16	NA	Diaminopimelate epimerase (EC 5.1.1.7)	0.669	7	FALSE
+Ac3H11_4434	NA	1	scaffold5/1	NA	Dihydrofolate reductase (EC 1.5.1.3)	0.6892	2	FALSE
+Ac3H11_2612	NA	1	scaffold5/16	NA	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	0.6538	11	FALSE
+Ac3H11_2465	NA	1	scaffold5/16	NA	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	0.6457	7	FALSE
+Ac3H11_2466	NA	1	scaffold5/16	NA	Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)	0.647	5	FALSE
+Ac3H11_1818	NA	1	scaffold5/16	NA	Dihydroneopterin aldolase (EC 4.1.2.25)	0.6453	1	FALSE
+Ac3H11_1963	NA	1	scaffold5/16	NA	Dihydroorotase (EC 3.5.2.3)	0.6771	13	FALSE
+Ac3H11_3977	NA	1	scaffold5/0	NA	Dihydroorotase (EC 3.5.2.3)	0.6951	2	FALSE
+Ac3H11_4100	NA	1	scaffold5/0	NA	Dihydroorotate dehydrogenase (EC 1.3.3.1)	0.661	5	FALSE
+Ac3H11_443	NA	1	scaffold5/10	NA	Dihydropteroate synthase (EC 2.5.1.15)	0.6342	11	FALSE
+Ac3H11_3147	NA	1	scaffold5/36	NA	Dna binding response regulator PrrA (RegA)	0.6753	3	FALSE
+Ac3H11_1930	NA	1	scaffold5/16	NA	DNA cytosine methyltransferase M.NgoMIII	0.5537	26	FALSE
+Ac3H11_2572	NA	1	scaffold5/16	NA	DNA gyrase subunit A (EC 5.99.1.3)	0.6319	22	FALSE
+Ac3H11_4257	NA	1	scaffold5/2	NA	DNA gyrase subunit B (EC 5.99.1.3)	0.6471	20	FALSE
+Ac3H11_2314	NA	1	scaffold5/16	NA	DNA ligase (EC 6.5.1.2)	0.673	20	FALSE
+Ac3H11_1972	NA	1	scaffold5/16	NA	DNA modification methylase M.NGOI	0.6066	8	FALSE
+Ac3H11_2458	NA	1	scaffold5/16	NA	DNA polymerase III alpha subunit (EC 2.7.7.7)	0.6409	35	FALSE
+Ac3H11_4258	NA	1	scaffold5/2	NA	DNA polymerase III beta subunit (EC 2.7.7.7)	0.6225	7	FALSE
+Ac3H11_2398	NA	1	scaffold5/16	NA	DNA polymerase III chi subunit (EC 2.7.7.7)	0.6621	2	FALSE
+Ac3H11_2490	NA	1	scaffold5/16	NA	DNA polymerase III delta prime subunit (EC 2.7.7.7)	0.7044	3	FALSE
+Ac3H11_702	NA	1	scaffold5/23	NA	DNA polymerase III delta subunit (EC 2.7.7.7)	0.6941	3	FALSE
+Ac3H11_4106	NA	1	scaffold5/0	NA	DNA polymerase III epsilon subunit (EC 2.7.7.7)	0.6443	5	FALSE
+Ac3H11_471	NA	1	scaffold5/10	NA	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	0.6869	8	FALSE
+Ac3H11_193	NA	1	scaffold5/29	NA	DNA primase (EC 2.7.7.-)	0.6921	16	FALSE
+Ac3H11_4994	NA	1	scaffold5/30	NA	DNA recombination-dependent growth factor C	0.6506	2	FALSE
+Ac3H11_1137	NA	1	scaffold5/33	NA	DNA-binding protein H-NS	0.6106	3	FALSE
+Ac3H11_3852	NA	1	scaffold5/0	NA	DNA-binding response regulator, LuxR family	0.6209	6	FALSE
+Ac3H11_813	NA	1	scaffold5/32	NA	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	0.6012	12	FALSE
+Ac3H11_4458	NA	1	scaffold5/1	NA	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	0.6197	33	FALSE
+Ac3H11_4459	NA	1	scaffold5/1	NA	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	0.6244	34	FALSE
+Ac3H11_1883	NA	1	scaffold5/16	NA	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	0.6319	5	FALSE
+Ac3H11_1881	NA	1	scaffold5/16	NA	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	0.6633	12	FALSE
+Ac3H11_1880	NA	1	scaffold5/16	NA	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	0.6685	14	FALSE
+Ac3H11_149	NA	1	scaffold5/35	NA	Electron transfer flavoprotein-ubiquinone oxidoreductase (EC 1.5.5.1)	0.6382	23	FALSE
+Ac3H11_3189	NA	1	scaffold5/36	NA	Electron transfer flavoprotein, alpha subunit	0.6645	5	FALSE
+Ac3H11_2706	NA	1	scaffold5/16	NA	Electron transfer flavoprotein, beta subunit	0.6561	1	FALSE
+Ac3H11_3190	NA	1	scaffold5/36	NA	Electron transfer flavoprotein, beta subunit	0.6373	2	FALSE
+Ac3H11_291	NA	1	scaffold5/29	NA	Enolase (EC 4.2.1.11)	0.6418	9	FALSE
+Ac3H11_2912	NA	1	scaffold5/16	NA	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	0.6479	6	FALSE
+Ac3H11_4042	NA	1	scaffold5/0	NA	Exoribonuclease II (EC 3.1.13.1)	0.6643	21	FALSE
+Ac3H11_1828	NA	1	scaffold5/16	NA	EXTRACYTOPLASMIC FUNCTION ALTERNATIVE SIGMA FACTOR	0.7305	2	FALSE
+Ac3H11_4791	NA	1	scaffold5/15	NA	FAD/FMN-containing dehydrogenases	0.6508	27	FALSE
+Ac3H11_572	NA	1	scaffold5/37	NA	Ferredoxin	0.6078	1	FALSE
+Ac3H11_3439	NA	1	scaffold5/18	NA	Ferredoxin--NADP(+) reductase (EC 1.18.1.2)	0.6306	9	FALSE
+Ac3H11_4107	NA	1	scaffold5/0	NA	Ferredoxin, 2Fe-2S	0.6254	0	FALSE
+Ac3H11_2840	NA	1	scaffold5/16	NA	Ferric siderophore transport system, periplasmic binding protein TonB	0.706	2	FALSE
+Ac3H11_684	NA	1	scaffold5/23	NA	Ferric uptake regulation protein FUR	0.6187	3	FALSE
+Ac3H11_107	NA	1	scaffold5/5	NA	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)	0.6989	11	FALSE
+Ac3H11_1337	NA	1	scaffold5/20	NA	Ferrous iron transport protein	0.7198	0	FALSE
+Ac3H11_2869	NA	1	scaffold5/16	NA	FIG000325: clustered with transcription termination protein NusA	0.6525	2	FALSE
+Ac3H11_472	NA	1	scaffold5/10	NA	FIG000557: hypothetical protein co-occurring with RecR	0.6066	0	FALSE
+Ac3H11_2401	NA	1	scaffold5/16	NA	FIG000906: Predicted Permease	0.6479	9	FALSE
+Ac3H11_2400	NA	1	scaffold5/16	NA	FIG000988: Predicted permease	0.6613	8	FALSE
+Ac3H11_2620	NA	1	scaffold5/16	NA	FIG001943: hypothetical protein YajQ	0.5967	0	FALSE
+Ac3H11_201	NA	1	scaffold5/29	NA	FIG00349048: hypothetical protein	0.6472	2	FALSE
+Ac3H11_62	NA	1	scaffold5/5	NA	FIG00349061: hypothetical protein	0.7262	4	FALSE
+Ac3H11_440	NA	1	scaffold5/10	NA	FIG004454: RNA binding protein	0.637	3	FALSE
+Ac3H11_998	NA	1	scaffold5/25	NA	FIG00537477: hypothetical protein	0.6794	1	FALSE
+Ac3H11_367	NA	1	scaffold5/10	NA	FIG00537757: hypothetical protein	0.6728	13	FALSE
+Ac3H11_4924	NA	1	scaffold5/30	NA	FIG006285: ICC-like protein phosphoesterase	0.7232	2	FALSE
+Ac3H11_4102	NA	1	scaffold5/0	NA	FIG01198409: hypothetical protein	0.6692	0	FALSE
+Ac3H11_3367	NA	1	scaffold5/18	NA	FIG01198652: hypothetical protein	0.6641	7	FALSE
+Ac3H11_2068	NA	1	scaffold5/16	NA	FIG01280259: hypothetical protein	0.6915	5	FALSE
+Ac3H11_4329	NA	1	scaffold5/2	NA	FIG01289694: hypothetical protein	0.6056	3	FALSE
+Ac3H11_237	NA	1	scaffold5/29	NA	FIG016502: iron uptake protein	0.7267	2	FALSE
+Ac3H11_1793	NA	1	scaffold5/6	NA	FIG021952: putative membrane protein	0.6946	5	FALSE
+Ac3H11_753	NA	1	scaffold5/32	NA	FIG074102: hypothetical protein	0.6471	12	FALSE
+Ac3H11_3263	NA	1	scaffold5/36	NA	FIG138315: Putative alpha helix protein	0.6562	2	FALSE
+Ac3H11_1773	NA	1	scaffold5/19	NA	FKBP-type peptidyl-prolyl cis-trans isomerase SlpA (EC 5.2.1.8)	0.6483	8	FALSE
+Ac3H11_1413	NA	1	scaffold5/20	NA	Flagellar biosynthesis protein FliQ	0.712	0	FALSE
+Ac3H11_1403	NA	1	scaffold5/20	NA	Flagellar hook-basal body complex protein FliE	0.6218	1	FALSE
+Ac3H11_1371	NA	1	scaffold5/20	NA	Flagellar L-ring protein FlgH	0.6681	1	FALSE
+Ac3H11_3731	NA	1	scaffold5/38	NA	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1; Vanillate O-demethylase oxidoreductase (EC 1.14.13.-)	0.7129	0	FALSE
+Ac3H11_2493	NA	1	scaffold5/16	NA	Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress	0.6788	6	FALSE
+Ac3H11_4485	NA	1	scaffold5/1	NA	Formyltetrahydrofolate deformylase (EC 3.5.1.10)	0.6338	10	FALSE
+Ac3H11_2634	NA	1	scaffold5/16	NA	Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	0.624	9	FALSE
+Ac3H11_658	NA	1	scaffold5/23	NA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	0.641	9	FALSE
+Ac3H11_941	NA	1	scaffold5/25	NA	Fumarate hydratase class I, aerobic (EC 4.2.1.2)	0.6521	10	FALSE
+Ac3H11_253	NA	1	scaffold5/29	NA	GCN5-related N-acetyltransferase	0.7201	2	FALSE
+Ac3H11_1468	NA	1	scaffold5/19	NA	GCN5-related N-acetyltransferase	0.6114	6	FALSE
+Ac3H11_2262	NA	1	scaffold5/16	NA	GENE II AND X PROTEINS	0.6194	0	FALSE
+Ac3H11_2039	NA	1	scaffold5/16	NA	General secretion pathway protein C	0.7325	1	FALSE
+Ac3H11_1893	NA	1	scaffold5/16	NA	General secretion pathway protein D	0.6479	20	FALSE
+Ac3H11_1886	NA	1	scaffold5/16	NA	General secretion pathway protein E	0.6204	14	FALSE
+Ac3H11_1888	NA	1	scaffold5/16	NA	General secretion pathway protein G	0.6241	6	FALSE
+Ac3H11_2037	NA	1	scaffold5/16	NA	General secretion pathway protein H	0.7405	0	FALSE
+Ac3H11_1889	NA	1	scaffold5/16	NA	general secretion pathway protein J	0.6031	10	FALSE
+Ac3H11_2031	NA	1	scaffold5/16	NA	General secretion pathway protein N	0.7544	1	FALSE
+Ac3H11_3229	NA	1	scaffold5/36	NA	Gluconokinase (EC 2.7.1.12)	0.659	1	FALSE
+Ac3H11_3072	NA	1	scaffold5/26	NA	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	0.6796	19	FALSE
+Ac3H11_1882	NA	1	scaffold5/16	NA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	0.6226	14	FALSE
+Ac3H11_2077	NA	1	scaffold5/16	NA	Glucose-6-phosphate isomerase (EC 5.3.1.9)	0.6832	9	FALSE
+Ac3H11_940	NA	1	scaffold5/25	NA	Glutamate racemase (EC 5.1.1.3)	0.6879	9	FALSE
+Ac3H11_3991	NA	1	scaffold5/0	NA	Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)	0.6659	10	FALSE
+Ac3H11_4429	NA	1	scaffold5/1	NA	Glutamine synthetase type I (EC 6.3.1.2)	0.6037	20	FALSE
+Ac3H11_27	NA	1	scaffold5/5	NA	Glutaminyl-tRNA synthetase (EC 6.1.1.18)	0.6433	24	TRUE
+Ac3H11_4781	NA	1	scaffold5/15	NA	Glutamyl-tRNA reductase (EC 1.2.1.70)	0.6944	6	FALSE
+Ac3H11_2607	NA	1	scaffold5/16	NA	Glutamyl-tRNA synthetase (EC 6.1.1.17)	0.647	16	TRUE
+Ac3H11_797	NA	1	scaffold5/32	NA	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	0.6836	12	FALSE
+Ac3H11_4876	NA	1	scaffold5/30	NA	Glycine betaine transporter OpuD	0.6991	0	FALSE
+Ac3H11_902	NA	1	scaffold5/25	NA	Glycine cleavage system transcriptional activator	0.7053	3	FALSE
+Ac3H11_1061	NA	1	scaffold5/17	NA	Glycine oxidase ThiO (EC 1.4.3.19)	0.71	8	FALSE
+Ac3H11_1903	NA	1	scaffold5/16	NA	glycosyl transferase, family 2	0.6375	9	FALSE
+Ac3H11_1867	NA	1	scaffold5/16	NA	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	0.6334	16	TRUE
+Ac3H11_1868	NA	1	scaffold5/16	NA	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	0.6629	13	TRUE
+Ac3H11_2854	NA	1	scaffold5/16	NA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	0.6401	12	FALSE
+Ac3H11_4813	NA	1	scaffold5/15	NA	GTP cyclohydrolase I (EC 3.5.4.16) type 1	0.6111	3	FALSE
+Ac3H11_3664	NA	1	scaffold5/38	NA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II / Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)	0.6417	27	FALSE
+Ac3H11_1798	NA	1	scaffold5/6	NA	GTP-binding protein EngA	0.6311	11	FALSE
+Ac3H11_2972	NA	1	scaffold5/16	NA	GTP-binding protein EngB	0.6613	5	FALSE
+Ac3H11_1565	NA	1	scaffold5/19	NA	GTP-binding protein Era	0.6259	5	FALSE
+Ac3H11_4770	NA	1	scaffold5/15	NA	GTP-binding protein Obg	0.6162	8	FALSE
+Ac3H11_2864	NA	1	scaffold5/16	NA	GTP-binding protein TypA/BipA	0.6223	11	FALSE
+Ac3H11_3666	NA	1	scaffold5/38	NA	Guanylate kinase (EC 2.7.4.8)	0.6128	7	FALSE
+Ac3H11_2580	NA	1	scaffold5/16	NA	Heat shock (predicted periplasmic) protein YciM, precursor	0.7003	7	FALSE
+Ac3H11_2086	NA	1	scaffold5/16	NA	Heat shock protein 60 family chaperone GroEL	0.6207	10	FALSE
+Ac3H11_1518	NA	1	scaffold5/19	NA	Heat shock protein GrpE	0.6897	2	FALSE
+Ac3H11_224	NA	1	scaffold5/29	NA	Heavy metal RND efflux outer membrane protein, CzcC family	0.7533	3	FALSE
+Ac3H11_468	NA	1	scaffold5/10	NA	Helicase	0.7148	10	FALSE
+Ac3H11_873	NA	1	scaffold5/32	NA	Helicase PriA essential for oriC/DnaA-independent DNA replication	0.711	19	FALSE
+Ac3H11_3883	NA	1	scaffold5/0	NA	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB	0.6483	12	FALSE
+Ac3H11_2744	NA	1	scaffold5/16	NA	Hemerythrin HHE cation binding protein	0.648	3	FALSE
+Ac3H11_2161	NA	1	scaffold5/16	NA	Hemerythrin-like protein RSc0777	0.7058	0	FALSE
+Ac3H11_226	NA	1	scaffold5/29	NA	hemin ABC transporter ATP binding protein	0.7317	1	FALSE
+Ac3H11_4724	NA	1	scaffold5/15	NA	Histidinol dehydrogenase (EC 1.1.1.23)	0.6746	13	FALSE
+Ac3H11_4729	NA	1	scaffold5/15	NA	Histidinol-phosphate aminotransferase (EC 2.6.1.9)	0.6791	11	FALSE
+Ac3H11_1795	NA	1	scaffold5/6	NA	Histidyl-tRNA synthetase (EC 6.1.1.21)	0.6667	12	TRUE
+Ac3H11_1331	NA	1	scaffold5/20	NA	Histone acetyltransferase HPA2 and related acetyltransferases	0.6481	1	FALSE
+Ac3H11_4073	NA	1	scaffold5/0	NA	histone-like protein	0.6447	0	FALSE
+Ac3H11_1562	NA	1	scaffold5/19	NA	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	0.6743	1	FALSE
+Ac3H11_1651	NA	1	scaffold5/19	NA	Homoserine kinase (EC 2.7.1.39)	0.6803	7	FALSE
+Ac3H11_1570	NA	1	scaffold5/19	NA	HtrA protease/chaperone protein	0.6401	8	FALSE
+Ac3H11_3018	NA	1	scaffold5/26	NA	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	0.6601	10	FALSE
+Ac3H11_1063	NA	1	scaffold5/17	NA	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	0.7134	3	FALSE
+Ac3H11_3348	NA	1	scaffold5/18	NA	Hypothetical metal-binding enzyme, YcbL homolog	0.6721	0	FALSE
+Ac3H11_309	NA	1	scaffold5/29	NA	hypothetical protein	0.6817	1	FALSE
+Ac3H11_400	NA	1	scaffold5/10	NA	hypothetical protein	0.7486	0	FALSE
+Ac3H11_585	NA	1	scaffold5/37	NA	hypothetical protein	0.6727	2	FALSE
+Ac3H11_618	NA	1	scaffold5/37	NA	hypothetical protein	0.677	6	FALSE
+Ac3H11_782	NA	1	scaffold5/32	NA	hypothetical protein	0.6022	12	FALSE
+Ac3H11_821	NA	1	scaffold5/32	NA	hypothetical protein	0.717	1	FALSE
+Ac3H11_835	NA	1	scaffold5/32	NA	hypothetical protein	0.7165	0	FALSE
+Ac3H11_1078	NA	1	scaffold5/33	NA	hypothetical protein	0.6716	2	FALSE
+Ac3H11_1153	NA	1	scaffold5/33	NA	hypothetical protein	0.7086	1	FALSE
+Ac3H11_1154	NA	1	scaffold5/33	NA	hypothetical protein	0.6799	3	FALSE
+Ac3H11_1704	NA	1	scaffold5/19	NA	hypothetical protein	0.6965	1	FALSE
+Ac3H11_1891	NA	1	scaffold5/16	NA	hypothetical protein	0.6541	7	FALSE
+Ac3H11_1892	NA	1	scaffold5/16	NA	hypothetical protein	0.6495	6	FALSE
+Ac3H11_1894	NA	1	scaffold5/16	NA	hypothetical protein	0.5815	7	FALSE
+Ac3H11_1896	NA	1	scaffold5/16	NA	hypothetical protein	0.6127	11	FALSE
+Ac3H11_2159	NA	1	scaffold5/16	NA	hypothetical protein	0.7832	0	FALSE
+Ac3H11_2209	NA	1	scaffold5/16	NA	hypothetical protein	0.6314	0	FALSE
+Ac3H11_2259	NA	1	scaffold5/16	NA	hypothetical protein	0.6319	1	FALSE
+Ac3H11_2332	NA	1	scaffold5/16	NA	hypothetical protein	0.6928	0	FALSE
+Ac3H11_2347	NA	1	scaffold5/16	NA	hypothetical protein	0.7193	2	FALSE
+Ac3H11_2521	NA	1	scaffold5/16	NA	hypothetical protein	0.6383	0	FALSE
+Ac3H11_2565	NA	1	scaffold5/16	NA	hypothetical protein	0.6994	0	FALSE
+Ac3H11_2787	NA	1	scaffold5/16	NA	hypothetical protein	0.6443	2	FALSE
+Ac3H11_3289	NA	1	scaffold5/7	NA	hypothetical protein	0.7352	1	FALSE
+Ac3H11_3300	NA	1	scaffold5/7	NA	hypothetical protein	0.6211	1	FALSE
+Ac3H11_3527	NA	1	scaffold5/34	NA	hypothetical protein	0.6955	0	FALSE
+Ac3H11_3619	NA	1	scaffold5/34	NA	hypothetical protein	0.7155	2	FALSE
+Ac3H11_3750	NA	1	scaffold5/8	NA	hypothetical protein	0.6557	2	FALSE
+Ac3H11_3754	NA	1	scaffold5/8	NA	hypothetical protein	0.6556	1	FALSE
+Ac3H11_3869	NA	1	scaffold5/0	NA	hypothetical protein	0.7134	0	FALSE
+Ac3H11_3908	NA	1	scaffold5/0	NA	hypothetical protein	0.7521	0	FALSE
+Ac3H11_3912	NA	1	scaffold5/0	NA	hypothetical protein	0.6264	5	FALSE
+Ac3H11_3967	NA	1	scaffold5/0	NA	hypothetical protein	0.7028	0	FALSE
+Ac3H11_3997	NA	1	scaffold5/0	NA	hypothetical protein	0.7386	0	FALSE
+Ac3H11_4215	NA	1	scaffold5/0	NA	hypothetical protein	0.5819	1	FALSE
+Ac3H11_4289	NA	1	scaffold5/2	NA	hypothetical protein	0.6937	0	FALSE
+Ac3H11_4695	NA	1	scaffold5/22	NA	hypothetical protein	0.5587	5	FALSE
+Ac3H11_4840	NA	1	scaffold5/30	NA	hypothetical protein	0.6825	0	FALSE
+Ac3H11_4904	NA	1	scaffold5/30	NA	hypothetical protein	0.7589	0	FALSE
+Ac3H11_1437	NA	1	scaffold5/19	NA	identified by similarity to GB:AAK22812.1; match to protein family HMM PF06676	0.6768	0	FALSE
+Ac3H11_4731	NA	1	scaffold5/15	NA	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	0.6682	6	FALSE
+Ac3H11_4733	NA	1	scaffold5/15	NA	Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)	0.6813	2	FALSE
+Ac3H11_4730	NA	1	scaffold5/15	NA	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	0.6582	4	FALSE
+Ac3H11_3994	NA	1	scaffold5/0	NA	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	0.6492	13	FALSE
+Ac3H11_4263	NA	1	scaffold5/2	NA	Inner membrane protein translocase component YidC, long form	0.6322	19	FALSE
+Ac3H11_509	NA	1	scaffold5/10	NA	Inorganic pyrophosphatase (EC 3.6.1.1)	0.6127	8	FALSE
+Ac3H11_2857	NA	1	scaffold5/16	NA	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	0.6436	11	FALSE
+Ac3H11_2824	NA	1	scaffold5/16	NA	Integration host factor alpha subunit	0.5819	1	FALSE
+Ac3H11_2578	NA	1	scaffold5/16	NA	Integration host factor beta subunit	0.6467	1	FALSE
+Ac3H11_4110	NA	1	scaffold5/0	NA	Iron binding protein IscA for iron-sulfur cluster assembly	0.6204	4	FALSE
+Ac3H11_4111	NA	1	scaffold5/0	NA	Iron-sulfur cluster assembly scaffold protein IscU	0.6247	1	FALSE
+Ac3H11_4113	NA	1	scaffold5/0	NA	Iron-sulfur cluster regulator IscR	0.6182	3	FALSE
+Ac3H11_2204	NA	1	scaffold5/16	NA	Isochorismatase (EC 3.3.2.1)	0.6799	0	FALSE
+Ac3H11_1716	NA	1	scaffold5/19	NA	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	0.651	33	TRUE
+Ac3H11_1037	NA	1	scaffold5/25	NA	Isoquinoline 1-oxidoreductase alpha subunit (EC 1.3.99.16)	0.7269	1	FALSE
+Ac3H11_527	NA	1	scaffold5/10	NA	Ketol-acid reductoisomerase (EC 1.1.1.86)	0.6146	13	FALSE
+Ac3H11_4748	NA	1	scaffold5/15	NA	Large-conductance mechanosensitive channel	0.6042	1	FALSE
+Ac3H11_3678	NA	1	scaffold5/38	NA	Late competence protein ComEC, DNA transport	0.5587	5	FALSE
+Ac3H11_4764	NA	1	scaffold5/15	NA	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)	0.6208	12	FALSE
+Ac3H11_689	NA	1	scaffold5/23	NA	Leucyl-tRNA synthetase (EC 6.1.1.4)	0.6417	34	TRUE
+Ac3H11_2969	NA	1	scaffold5/16	NA	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.-)	0.7143	5	FALSE
+Ac3H11_2486	NA	1	scaffold5/16	NA	Lipid A export ATP-binding/permease protein MsbA	0.6511	13	FALSE
+Ac3H11_2217	NA	1	scaffold5/16	NA	Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12) [often with (EC 2.4.99.13) also]	0.7259	6	FALSE
+Ac3H11_431	NA	1	scaffold5/10	NA	Lipid-A-disaccharide synthase (EC 2.4.1.182)	0.6546	8	FALSE
+Ac3H11_2103	NA	1	scaffold5/16	NA	Lipoate synthase	0.6402	6	FALSE
+Ac3H11_726	NA	1	scaffold5/32	NA	Lipopolysaccharide ABC transporter, ATP-binding protein LptB	0.6679	5	FALSE
+Ac3H11_1898	NA	1	scaffold5/16	NA	Lipopolysaccharide biosynthesis protein-like	0.6261	8	FALSE
+Ac3H11_1786	NA	1	scaffold5/6	NA	Lipoprotein NlpD	0.6724	7	FALSE
+Ac3H11_1743	NA	1	scaffold5/19	NA	Lipoprotein releasing system ATP-binding protein LolD	0.6976	2	FALSE
+Ac3H11_1744	NA	1	scaffold5/19	NA	Lipoprotein releasing system transmembrane protein LolE	0.6627	3	FALSE
+Ac3H11_1717	NA	1	scaffold5/19	NA	Lipoprotein signal peptidase (EC 3.4.23.36)	0.6513	2	FALSE
+Ac3H11_690	NA	1	scaffold5/23	NA	LPS-assembly lipoprotein RlpB precursor (Rare lipoprotein B)	0.6905	3	FALSE
+Ac3H11_725	NA	1	scaffold5/32	NA	LptA, protein essential for LPS transport across the periplasm	0.691	5	FALSE
+Ac3H11_4456	NA	1	scaffold5/1	NA	LSU ribosomal protein L10p (P0)	0.6178	5	TRUE
+Ac3H11_4454	NA	1	scaffold5/1	NA	LSU ribosomal protein L11p (L12e)	0.5694	3	TRUE
+Ac3H11_3050	NA	1	scaffold5/26	NA	LSU ribosomal protein L13p (L13Ae)	0.5903	9	TRUE
+Ac3H11_807	NA	1	scaffold5/32	NA	LSU ribosomal protein L15p (L27Ae)	0.6273	3	TRUE
+Ac3H11_814	NA	1	scaffold5/32	NA	LSU ribosomal protein L17p	0.6158	1	TRUE
+Ac3H11_804	NA	1	scaffold5/32	NA	LSU ribosomal protein L18p (L5e)	0.623	4	TRUE
+Ac3H11_1683	NA	1	scaffold5/19	NA	LSU ribosomal protein L19p	0.615	7	TRUE
+Ac3H11_4455	NA	1	scaffold5/1	NA	LSU ribosomal protein L1p (L10Ae)	0.6063	8	TRUE
+Ac3H11_4768	NA	1	scaffold5/15	NA	LSU ribosomal protein L21p	0.5577	6	TRUE
+Ac3H11_2130	NA	1	scaffold5/16	NA	LSU ribosomal protein L22p (L17e)	0.5826	2	TRUE
+Ac3H11_2133	NA	1	scaffold5/16	NA	LSU ribosomal protein L23p (L23Ae)	0.5619	2	TRUE
+Ac3H11_799	NA	1	scaffold5/32	NA	LSU ribosomal protein L24p (L26e)	0.5857	2	TRUE
+Ac3H11_2132	NA	1	scaffold5/16	NA	LSU ribosomal protein L2p (L8e)	0.6218	10	TRUE
+Ac3H11_2135	NA	1	scaffold5/16	NA	LSU ribosomal protein L3p (L3e)	0.6074	10	TRUE
+Ac3H11_2134	NA	1	scaffold5/16	NA	LSU ribosomal protein L4p (L1e)	0.5604	9	TRUE
+Ac3H11_800	NA	1	scaffold5/32	NA	LSU ribosomal protein L5p (L11e)	0.5796	7	TRUE
+Ac3H11_803	NA	1	scaffold5/32	NA	LSU ribosomal protein L6p (L9e)	0.5784	5	TRUE
+Ac3H11_4457	NA	1	scaffold5/1	NA	LSU ribosomal protein L7/L12 (P1/P2)	0.582	1	TRUE
+Ac3H11_1558	NA	1	scaffold5/19	NA	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	0.6453	14	TRUE
+Ac3H11_665	NA	1	scaffold5/23	NA	Magnesium and cobalt transport protein CorA	0.6099	5	FALSE
+Ac3H11_3153	NA	1	scaffold5/36	NA	Malate dehydrogenase (EC 1.1.1.37)	0.6241	6	FALSE
+Ac3H11_210	NA	1	scaffold5/29	NA	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)	0.6776	3	FALSE
+Ac3H11_1579	NA	1	scaffold5/19	NA	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	0.6614	3	FALSE
+Ac3H11_425	NA	1	scaffold5/10	NA	Membrane-associated zinc metalloprotease	0.6542	7	FALSE
+Ac3H11_1203	NA	1	scaffold5/13	NA	Membrane-bound lytic murein transglycosylase A precursor (EC 3.2.1.-)	0.7254	10	FALSE
+Ac3H11_2447	NA	1	scaffold5/16	NA	Metal transporter, ZIP family	0.7189	1	FALSE
+Ac3H11_4681	NA	1	scaffold5/1	NA	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly	0.645	5	FALSE
+Ac3H11_538	NA	1	scaffold5/10	NA	Methionine aminopeptidase (EC 3.4.11.18)	0.6397	8	FALSE
+Ac3H11_4407	NA	1	scaffold5/2	NA	Methionyl-tRNA formyltransferase (EC 2.1.2.9)	0.6831	11	FALSE
+Ac3H11_187	NA	1	scaffold5/35	NA	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	0.6441	1	FALSE
+Ac3H11_1750	NA	1	scaffold5/19	NA	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	0.7006	0	FALSE
+Ac3H11_1754	NA	1	scaffold5/19	NA	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	0.6831	0	FALSE
+Ac3H11_3016	NA	1	scaffold5/26	NA	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	0.6755	14	FALSE
+Ac3H11_3010	NA	1	scaffold5/26	NA	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	0.658	13	FALSE
+Ac3H11_4096	NA	1	scaffold5/0	NA	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	0.6506	6	FALSE
+Ac3H11_3014	NA	1	scaffold5/26	NA	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)	0.673	7	FALSE
+Ac3H11_1796	NA	1	scaffold5/6	NA	Mlr7403 protein	0.6215	9	FALSE
+Ac3H11_2841	NA	1	scaffold5/16	NA	MotA/TolQ/ExbB proton channel family protein	0.6528	3	FALSE
+Ac3H11_3137	NA	1	scaffold5/36	NA	MotA/TolQ/ExbB proton channel family protein	0.6443	6	FALSE
+Ac3H11_4700	NA	1	scaffold5/15	NA	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	0.6151	37	FALSE
+Ac3H11_817	NA	1	scaffold5/32	NA	Multiple antibiotic resistance (MarC) -related proteins	0.6616	0	FALSE
+Ac3H11_3067	NA	1	scaffold5/26	NA	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	0.6829	12	FALSE
+Ac3H11_900	NA	1	scaffold5/25	NA	N-acetylglutamate synthase (EC 2.3.1.1)	0.6488	9	FALSE
+Ac3H11_308	NA	1	scaffold5/29	NA	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)	0.709	6	FALSE
+Ac3H11_2298	NA	1	scaffold5/16	NA	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)	0.6625	9	FALSE
+Ac3H11_3461	NA	1	scaffold5/34	NA	NAD kinase (EC 2.7.1.23)	0.6178	13	FALSE
+Ac3H11_648	NA	1	scaffold5/23	NA	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	0.6226	6	FALSE
+Ac3H11_1451	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	0.6125	9	FALSE
+Ac3H11_1450	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)	0.6127	8	FALSE
+Ac3H11_1449	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	0.6124	22	FALSE
+Ac3H11_1448	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)	0.6221	5	FALSE
+Ac3H11_1447	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)	0.6336	17	FALSE
+Ac3H11_1446	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)	0.6329	13	FALSE
+Ac3H11_1445	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	0.6085	10	FALSE
+Ac3H11_1444	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	0.6023	7	FALSE
+Ac3H11_1443	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	0.6114	7	FALSE
+Ac3H11_1442	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	0.5987	2	FALSE
+Ac3H11_1441	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	0.6036	23	FALSE
+Ac3H11_1440	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	0.6152	17	FALSE
+Ac3H11_1439	NA	1	scaffold5/19	NA	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	0.6345	22	FALSE
+Ac3H11_1379	NA	1	scaffold5/20	NA	Negative regulator of flagellin synthesis	0.6235	0	FALSE
+Ac3H11_4489	NA	1	scaffold5/1	NA	Nitrate/nitrite response regulator protein	0.7251	1	FALSE
+Ac3H11_2636	NA	1	scaffold5/16	NA	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)	0.6457	2	FALSE
+Ac3H11_4674	NA	1	scaffold5/1	NA	Nitrogen regulation protein NR(I)	0.6905	0	FALSE
+Ac3H11_4463	NA	1	scaffold5/1	NA	Nitrogen regulation protein NtrY (EC 2.7.3.-)	0.6824	12	FALSE
+Ac3H11_4500	NA	1	scaffold5/1	NA	nitroreductase	0.7141	2	FALSE
+Ac3H11_1790	NA	1	scaffold5/6	NA	Nucleoside diphosphate kinase (EC 2.7.4.6)	0.6033	2	FALSE
+Ac3H11_2964	NA	1	scaffold5/16	NA	Nudix-related transcriptional regulator NrtR	0.7021	6	FALSE
+Ac3H11_3366	NA	1	scaffold5/18	NA	O-antigen ligase	0.7033	11	FALSE
+Ac3H11_2102	NA	1	scaffold5/16	NA	Octanoate-[acyl-carrier-protein]-protein-N-octan oyltransferase	0.6487	14	FALSE
+Ac3H11_4767	NA	1	scaffold5/15	NA	Octaprenyl diphosphate synthase (EC 2.5.1.90)	0.6275	10	FALSE
+Ac3H11_3565	NA	1	scaffold5/34	NA	Octaprenyl diphosphate synthase (EC 2.5.1.90) / Dimethylallyltransferase (EC 2.5.1.1) / (2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10) / Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29)	0.695	7	FALSE
+Ac3H11_1613	NA	1	scaffold5/19	NA	Opine oxidase subunit C	0.6696	0	FALSE
+Ac3H11_4325	NA	1	scaffold5/2	NA	Organic solvent tolerance protein precursor	0.6892	30	FALSE
+Ac3H11_1333	NA	1	scaffold5/20	NA	Ornithine carbamoyltransferase (EC 2.1.3.3)	0.6211	10	FALSE
+Ac3H11_1121	NA	1	scaffold5/33	NA	Ornithine cyclodeaminase (EC 4.3.1.12)	0.7396	0	FALSE
+Ac3H11_1775	NA	1	scaffold5/19	NA	ortholog of Bordetella pertussis (BX470248) BP2475	0.7386	0	FALSE
+Ac3H11_342	NA	1	scaffold5/10	NA	Osmolarity sensory histidine kinase EnvZ	0.6358	9	FALSE
+Ac3H11_1697	NA	1	scaffold5/19	NA	Outer membrane lipoprotein carrier protein LolA	0.6402	7	FALSE
+Ac3H11_3454	NA	1	scaffold5/34	NA	Outer membrane lipoprotein LolB	0.638	0	FALSE
+Ac3H11_685	NA	1	scaffold5/23	NA	Outer membrane lipoprotein SmpA, a component of the essential YaeT outer-membrane protein assembly complex	0.6879	4	FALSE
+Ac3H11_2045	NA	1	scaffold5/16	NA	Outer membrane porin protein 32 precursor	0.5945	18	FALSE
+Ac3H11_426	NA	1	scaffold5/10	NA	Outer membrane protein assembly factor YaeT precursor	0.6166	34	FALSE
+Ac3H11_427	NA	1	scaffold5/10	NA	Outer membrane protein H precursor	0.613	4	FALSE
+Ac3H11_4743	NA	1	scaffold5/15	NA	Outer membrane stress sensor protease DegS	0.6744	2	FALSE
+Ac3H11_1875	NA	1	scaffold5/16	NA	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	0.6758	4	FALSE
+Ac3H11_2947	NA	1	scaffold5/16	NA	pentapeptide repeat family protein	0.6491	2	FALSE
+Ac3H11_3056	NA	1	scaffold5/26	NA	Peptidase, M23/M37 family	0.6849	8	FALSE
+Ac3H11_4780	NA	1	scaffold5/15	NA	Peptide chain release factor 1	0.6703	9	FALSE
+Ac3H11_2631	NA	1	scaffold5/16	NA	Peptide chain release factor 2; programmed frameshift-containing	0.6218	10	FALSE
+Ac3H11_3041	NA	1	scaffold5/26	NA	Peptide chain release factor 3	0.6648	9	FALSE
+Ac3H11_2538	NA	1	scaffold5/16	NA	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	0.6209	6	FALSE
+Ac3H11_377	NA	1	scaffold5/10	NA	Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)	0.635	16	FALSE
+Ac3H11_3450	NA	1	scaffold5/34	NA	Peptidyl-tRNA hydrolase (EC 3.1.1.29)	0.6667	3	FALSE
+Ac3H11_724	NA	1	scaffold5/32	NA	Periplasmic thiol:disulfide interchange protein DsbA	0.625	7	FALSE
+Ac3H11_908	NA	1	scaffold5/25	NA	Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation	0.6145	6	FALSE
+Ac3H11_3752	NA	1	scaffold5/8	NA	Phage protein	0.6426	6	FALSE
+Ac3H11_2826	NA	1	scaffold5/16	NA	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	0.6306	5	TRUE
+Ac3H11_2825	NA	1	scaffold5/16	NA	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	0.6413	16	TRUE
+Ac3H11_721	NA	1	scaffold5/32	NA	Phosphate starvation-inducible protein PsiF	0.6374	0	FALSE
+Ac3H11_1581	NA	1	scaffold5/19	NA	Phosphate:acyl-ACP acyltransferase PlsX	0.6192	13	FALSE
+Ac3H11_423	NA	1	scaffold5/10	NA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	0.6784	3	FALSE
+Ac3H11_739	NA	1	scaffold5/32	NA	Phosphatidylglycerophosphatase A (EC 3.1.3.27)	0.6837	3	FALSE
+Ac3H11_2547	NA	1	scaffold5/16	NA	Phosphatidylserine decarboxylase (EC 4.1.1.65)	0.6714	6	FALSE
+Ac3H11_2012	NA	1	scaffold5/16	NA	Phospho-N-acetylmuramoyl-pentapeptide- transferase (EC 2.7.8.13)	0.6353	10	FALSE
+Ac3H11_444	NA	1	scaffold5/10	NA	Phosphoglucosamine mutase (EC 5.4.2.10)	0.6547	15	FALSE
+Ac3H11_4404	NA	1	scaffold5/2	NA	Phosphoglycerate kinase (EC 2.7.2.3)	0.6783	3	FALSE
+Ac3H11_3856	NA	1	scaffold5/0	NA	Phosphoglycerate mutase (EC 5.4.2.1)	0.6532	9	FALSE
+Ac3H11_4468	NA	1	scaffold5/1	NA	Phosphoheptose isomerase (EC 5.3.1.-)	0.7	0	FALSE
+Ac3H11_453	NA	1	scaffold5/10	NA	Phosphohistidine phosphatase SixA	0.671	0	FALSE
+Ac3H11_2215	NA	1	scaffold5/16	NA	Phosphomannomutase (EC 5.4.2.8)	0.6803	7	FALSE
+Ac3H11_3864	NA	1	scaffold5/0	NA	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	0.6448	3	FALSE
+Ac3H11_287	NA	1	scaffold5/29	NA	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	0.6699	5	FALSE
+Ac3H11_4735	NA	1	scaffold5/15	NA	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	0.6179	1	FALSE
+Ac3H11_4736	NA	1	scaffold5/15	NA	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	0.6453	4	FALSE
+Ac3H11_2421	NA	1	scaffold5/16	NA	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	0.6572	7	FALSE
+Ac3H11_675	NA	1	scaffold5/23	NA	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	0.696	10	FALSE
+Ac3H11_676	NA	1	scaffold5/23	NA	Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)	0.6879	2	FALSE
+Ac3H11_679	NA	1	scaffold5/23	NA	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	0.6775	9	FALSE
+Ac3H11_4732	NA	1	scaffold5/15	NA	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	0.6545	5	FALSE
+Ac3H11_1318	NA	1	scaffold5/20	NA	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	0.6609	5	FALSE
+Ac3H11_2573	NA	1	scaffold5/16	NA	Phosphoserine aminotransferase (EC 2.6.1.52)	0.6477	10	FALSE
+Ac3H11_1039	NA	1	scaffold5/25	NA	Phosphoserine phosphatase (EC 3.1.3.3)	0.6667	3	FALSE
+Ac3H11_1314	NA	1	scaffold5/20	NA	Phosphoserine phosphatase (EC 3.1.3.3)	0.6892	7	FALSE
+Ac3H11_927	NA	1	scaffold5/25	NA	Phytoene synthase (EC 2.5.1.32)	0.6529	10	FALSE
+Ac3H11_4966	NA	1	scaffold5/30	NA	PIN domain protein	0.6953	0	FALSE
+Ac3H11_439	NA	1	scaffold5/10	NA	PMID: 11481431	0.6289	12	FALSE
+Ac3H11_1313	NA	1	scaffold5/20	NA	Poly(A) polymerase (EC 2.7.7.19)	0.6803	7	FALSE
+Ac3H11_1878	NA	1	scaffold5/16	NA	Polyhydroxyalkanoate granule-associated protein PhaF	0.6599	1	FALSE
+Ac3H11_1456	NA	1	scaffold5/19	NA	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	0.6199	17	FALSE
+Ac3H11_3552	NA	1	scaffold5/34	NA	Porphobilinogen deaminase (EC 2.5.1.61)	0.6922	2	FALSE
+Ac3H11_2147	NA	1	scaffold5/16	NA	Porphobilinogen synthase (EC 4.2.1.24)	0.6835	10	FALSE
+Ac3H11_1899	NA	1	scaffold5/16	NA	Possible glycosyltransferase	0.6356	17	FALSE
+Ac3H11_1897	NA	1	scaffold5/16	NA	PPIC-type PPIASE domain protein	0.6048	15	FALSE
+Ac3H11_808	NA	1	scaffold5/32	NA	Preprotein translocase secY subunit (TC 3.A.5.1.1)	0.5455	22	FALSE
+Ac3H11_4452	NA	1	scaffold5/1	NA	Preprotein translocase subunit SecE (TC 3.A.5.1.1)	0.5556	2	FALSE
+Ac3H11_3835	NA	1	scaffold5/0	NA	Probable 5-carboxymethyl-2-hydroxymuconate delta isomerase	0.6833	1	FALSE
+Ac3H11_2459	NA	1	scaffold5/16	NA	Probable component of the lipoprotein assembly complex (forms a complex with YaeT, YfgL, and NlpB)	0.6441	15	FALSE
+Ac3H11_464	NA	1	scaffold5/10	NA	Probable inner membrane transmembrane protein	0.699	11	FALSE
+Ac3H11_2536	NA	1	scaffold5/16	NA	Probable intracellular septation protein	0.6019	7	FALSE
+Ac3H11_3054	NA	1	scaffold5/26	NA	probable iron binding protein from the HesB_IscA_SufA family	0.6011	5	FALSE
+Ac3H11_4462	NA	1	scaffold5/1	NA	Probable proline rich signal peptide protein	0.6471	8	FALSE
+Ac3H11_523	NA	1	scaffold5/10	NA	Probable transmembrane protein	0.6732	2	FALSE
+Ac3H11_1438	NA	1	scaffold5/19	NA	Probable transmembrane protein	0.6505	3	FALSE
+Ac3H11_2579	NA	1	scaffold5/16	NA	Probable transmembrane protein	0.6814	1	FALSE
+Ac3H11_2858	NA	1	scaffold5/16	NA	Probable transmembrane protein	0.6699	1	FALSE
+Ac3H11_3384	NA	1	scaffold5/18	NA	Probable transmembrane protein	0.6567	11	FALSE
+Ac3H11_4272	NA	1	scaffold5/2	NA	Probable transmembrane protein	0.6602	3	FALSE
+Ac3H11_4464	NA	1	scaffold5/1	NA	Probable two component response regulator transcription regulator protein	0.6608	4	FALSE
+Ac3H11_1160	NA	1	scaffold5/33	NA	probable two-component system response regulator	0.7012	0	FALSE
+Ac3H11_957	NA	1	scaffold5/25	NA	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)	0.6618	10	FALSE
+Ac3H11_4773	NA	1	scaffold5/15	NA	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type	0.6477	15	TRUE
+Ac3H11_1328	NA	1	scaffold5/20	NA	Proposed peptidoglycan lipid II flippase MurJ	0.6827	17	FALSE
+Ac3H11_1618	NA	1	scaffold5/19	NA	Protein containing plastocyanin/azurin family domain	0.7003	1	FALSE
+Ac3H11_4757	NA	1	scaffold5/15	NA	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	0.6337	31	FALSE
+Ac3H11_1994	NA	1	scaffold5/16	NA	Protein of unknown function DUF484	0.684	1	FALSE
+Ac3H11_3667	NA	1	scaffold5/38	NA	Protein YicC	0.6743	0	FALSE
+Ac3H11_4796	NA	1	scaffold5/15	NA	Protein YigP (COG3165) clustered with ubiquinone biosynthetic genes	0.6783	1	FALSE
+Ac3H11_4414	NA	1	scaffold5/2	NA	Protein-export membrane protein SecD (TC 3.A.5.1.1)	0.6576	8	FALSE
+Ac3H11_4413	NA	1	scaffold5/2	NA	Protein-export membrane protein SecF (TC 3.A.5.1.1)	0.6162	8	FALSE
+Ac3H11_4779	NA	1	scaffold5/15	NA	Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 and RF2	0.7124	4	FALSE
+Ac3H11_2146	NA	1	scaffold5/16	NA	Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)	0.6507	4	FALSE
+Ac3H11_682	NA	1	scaffold5/23	NA	PTS system nitrogen-specific IIA component, PtsN	0.6308	0	FALSE
+Ac3H11_2117	NA	1	scaffold5/16	NA	PTS system, fructose-specific IIA component	0.6733	1	FALSE
+Ac3H11_3485	NA	1	scaffold5/34	NA	Putative bacteriophage-related protein	0.6667	4	FALSE
+Ac3H11_1179	NA	1	scaffold5/14	NA	putative exported protein	0.726	1	FALSE
+Ac3H11_2328	NA	1	scaffold5/16	NA	putative exported protein	0.6624	2	FALSE
+Ac3H11_4964	NA	1	scaffold5/30	NA	Putative exported protein precursor	0.7394	1	FALSE
+Ac3H11_3980	NA	1	scaffold5/0	NA	Putative Holliday junction resolvase YqgF	0.6713	2	FALSE
+Ac3H11_4298	NA	1	scaffold5/2	NA	Putative lipid carrier protein	0.7401	1	FALSE
+Ac3H11_2390	NA	1	scaffold5/16	NA	putative membrane protein	0.6524	0	FALSE
+Ac3H11_4103	NA	1	scaffold5/0	NA	Putative membrane protein	0.6601	1	FALSE
+Ac3H11_1144	NA	1	scaffold5/33	NA	Putative n-hydroxybenzoate hydroxylase	0.7184	6	FALSE
+Ac3H11_3139	NA	1	scaffold5/36	NA	Putative TolA protein	0.6532	8	FALSE
+Ac3H11_2236	NA	1	scaffold5/16	NA	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)	0.6526	6	FALSE
+Ac3H11_1563	NA	1	scaffold5/19	NA	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	0.6831	5	FALSE
+Ac3H11_788	NA	1	scaffold5/32	NA	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	0.7057	6	FALSE
+Ac3H11_3825	NA	1	scaffold5/0	NA	Queuosine Biosynthesis QueE Radical SAM	0.6714	0	FALSE
+Ac3H11_3046	NA	1	scaffold5/26	NA	Rare lipoprotein A precursor	0.7347	1	FALSE
+Ac3H11_3182	NA	1	scaffold5/36	NA	Regulator of nucleoside diphosphate kinase	0.6643	1	FALSE
+Ac3H11_1512	NA	1	scaffold5/19	NA	Replicative DNA helicase (EC 3.6.1.-)	0.6302	14	FALSE
+Ac3H11_3346	NA	1	scaffold5/18	NA	response regulator	0.6695	0	FALSE
+Ac3H11_3853	NA	1	scaffold5/0	NA	Response regulator receiver	0.6383	3	FALSE
+Ac3H11_3600	NA	1	scaffold5/34	NA	response regulator receiver protein	0.6638	6	FALSE
+Ac3H11_2220	NA	1	scaffold5/16	NA	Rhodanese-like domain protein	0.678	0	FALSE
+Ac3H11_4883	NA	1	scaffold5/30	NA	Rhs family protein	0.6278	7	FALSE
+Ac3H11_4889	NA	1	scaffold5/30	NA	Rhs family protein	0.6175	1	FALSE
+Ac3H11_1715	NA	1	scaffold5/19	NA	Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)	0.6657	12	FALSE
+Ac3H11_4357	NA	1	scaffold5/2	NA	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	0.661	4	FALSE
+Ac3H11_1592	NA	1	scaffold5/19	NA	Ribonuclease E (EC 3.1.26.12)	0.6951	14	FALSE
+Ac3H11_480	NA	1	scaffold5/10	NA	Ribonuclease HI (EC 3.1.26.4)	0.6756	1	FALSE
+Ac3H11_1566	NA	1	scaffold5/19	NA	Ribonuclease III (EC 3.1.26.3)	0.6462	8	FALSE
+Ac3H11_4261	NA	1	scaffold5/2	NA	Ribonuclease P protein component (EC 3.1.26.5)	0.6919	1	FALSE
+Ac3H11_4021	NA	1	scaffold5/0	NA	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	0.6337	34	FALSE
+Ac3H11_4022	NA	1	scaffold5/0	NA	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	0.5821	15	FALSE
+Ac3H11_2922	NA	1	scaffold5/16	NA	Ribonucleotide reductase transcriptional regulator NrdR	0.6115	4	FALSE
+Ac3H11_4099	NA	1	scaffold5/0	NA	Ribose 5-phosphate isomerase A (EC 5.3.1.6)	0.6507	4	FALSE
+Ac3H11_1838	NA	1	scaffold5/16	NA	Ribose ABC transport system, high affinity permease RbsD (TC 3.A.1.2.1)	0.6974	0	FALSE
+Ac3H11_3452	NA	1	scaffold5/34	NA	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	0.6215	6	FALSE
+Ac3H11_1171	NA	1	scaffold5/14	NA	Ribosomal subunit interface protein	0.6581	0	FALSE
+Ac3H11_421	NA	1	scaffold5/10	NA	Ribosome recycling factor	0.6007	3	FALSE
+Ac3H11_1680	NA	1	scaffold5/19	NA	Ribosome small subunit-stimulated GTPase EngC	0.6508	5	FALSE
+Ac3H11_2866	NA	1	scaffold5/16	NA	Ribosome-binding factor A	0.6299	2	FALSE
+Ac3H11_757	NA	1	scaffold5/32	NA	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	0.6374	3	FALSE
+Ac3H11_194	NA	1	scaffold5/29	NA	RNA polymerase sigma factor RpoD	0.6217	13	FALSE
+Ac3H11_1573	NA	1	scaffold5/19	NA	RNA polymerase sigma factor RpoE	0.6077	12	FALSE
+Ac3H11_3880	NA	1	scaffold5/0	NA	RNA polymerase sigma factor RpoH	0.6476	6	FALSE
+Ac3H11_3335	NA	1	scaffold5/18	NA	Rod shape-determining protein MreB	0.6437	8	FALSE
+Ac3H11_3334	NA	1	scaffold5/18	NA	Rod shape-determining protein MreC	0.7024	9	FALSE
+Ac3H11_3333	NA	1	scaffold5/18	NA	Rod shape-determining protein MreD	0.6782	2	FALSE
+Ac3H11_4038	NA	1	scaffold5/0	NA	Rod shape-determining protein RodA	0.6445	8	FALSE
+Ac3H11_2007	NA	1	scaffold5/16	NA	rRNA small subunit methyltransferase H	0.6495	5	FALSE
+Ac3H11_2967	NA	1	scaffold5/16	NA	S-adenosylmethionine synthetase (EC 2.5.1.6)	0.6481	16	FALSE
+Ac3H11_3814	NA	1	scaffold5/0	NA	Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like	0.6557	6	FALSE
+Ac3H11_3823	NA	1	scaffold5/0	NA	Segregation and condensation protein A	0.6331	11	FALSE
+Ac3H11_1788	NA	1	scaffold5/6	NA	Segregation and condensation protein B	0.6327	5	FALSE
+Ac3H11_3851	NA	1	scaffold5/0	NA	Sensor histidine kinase	0.6652	9	FALSE
+Ac3H11_1584	NA	1	scaffold5/19	NA	Septum formation protein Maf	0.6933	4	FALSE
+Ac3H11_2921	NA	1	scaffold5/16	NA	Serine hydroxymethyltransferase (EC 2.1.2.1)	0.6369	11	FALSE
+Ac3H11_1769	NA	1	scaffold5/19	NA	Seryl-tRNA synthetase (EC 6.1.1.11)	0.627	11	TRUE
+Ac3H11_1572	NA	1	scaffold5/19	NA	Sigma factor RpoE negative regulatory protein RseA	0.6712	2	FALSE
+Ac3H11_1571	NA	1	scaffold5/19	NA	Sigma factor RpoE negative regulatory protein RseB precursor	0.6473	9	FALSE
+Ac3H11_1568	NA	1	scaffold5/19	NA	Signal peptidase I (EC 3.4.21.89)	0.5795	12	FALSE
+Ac3H11_3876	NA	1	scaffold5/0	NA	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)	0.7229	4	FALSE
+Ac3H11_4015	NA	1	scaffold5/0	NA	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)	0.6377	7	FALSE
+Ac3H11_4383	NA	1	scaffold5/2	NA	Single-stranded DNA-binding protein	0.6685	6	FALSE
+Ac3H11_3206	NA	1	scaffold5/36	NA	Small heat shock protein	0.6744	0	FALSE
+Ac3H11_2136	NA	1	scaffold5/16	NA	SSU ribosomal protein S10p (S20e)	0.5897	1	TRUE
+Ac3H11_811	NA	1	scaffold5/32	NA	SSU ribosomal protein S11p (S14e)	0.6142	0	TRUE
+Ac3H11_2141	NA	1	scaffold5/16	NA	SSU ribosomal protein S12p (S23e)	0.5926	6	TRUE
+Ac3H11_810	NA	1	scaffold5/32	NA	SSU ribosomal protein S13p (S18e)	0.5574	4	TRUE
+Ac3H11_801	NA	1	scaffold5/32	NA	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	0.6046	2	TRUE
+Ac3H11_1329	NA	1	scaffold5/20	NA	SSU ribosomal protein S20p	0.5941	3	TRUE
+Ac3H11_418	NA	1	scaffold5/10	NA	SSU ribosomal protein S2p (SAe)	0.5989	3	TRUE
+Ac3H11_2129	NA	1	scaffold5/16	NA	SSU ribosomal protein S3p (S3e)	0.6247	8	TRUE
+Ac3H11_812	NA	1	scaffold5/32	NA	SSU ribosomal protein S4p (S9e)	0.6042	7	TRUE
+Ac3H11_805	NA	1	scaffold5/32	NA	SSU ribosomal protein S5p (S2e)	0.5915	6	TRUE
+Ac3H11_4561	NA	1	scaffold5/1	NA	SSU ribosomal protein S5p (S2e)	0.6918	0	TRUE
+Ac3H11_1517	NA	1	scaffold5/19	NA	SSU ribosomal protein S6p	0.5958	3	TRUE
+Ac3H11_2140	NA	1	scaffold5/16	NA	SSU ribosomal protein S7p (S5e)	0.5949	3	TRUE
+Ac3H11_802	NA	1	scaffold5/32	NA	SSU ribosomal protein S8p (S15Ae)	0.5758	6	TRUE
+Ac3H11_3051	NA	1	scaffold5/26	NA	SSU ribosomal protein S9p (S16e)	0.6005	4	TRUE
+Ac3H11_4753	NA	1	scaffold5/15	NA	Stringent starvation protein A	0.5964	10	FALSE
+Ac3H11_3156	NA	1	scaffold5/36	NA	Succinate dehydrogenase cytochrome b-556 subunit	0.6023	3	FALSE
+Ac3H11_3158	NA	1	scaffold5/36	NA	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)	0.6473	15	FALSE
+Ac3H11_3157	NA	1	scaffold5/36	NA	Succinate dehydrogenase hydrophobic membrane anchor protein	0.6257	3	FALSE
+Ac3H11_3159	NA	1	scaffold5/36	NA	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	0.6156	5	FALSE
+Ac3H11_1251	NA	1	scaffold5/13	NA	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	0.6265	6	FALSE
+Ac3H11_131	NA	1	scaffold5/35	NA	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)	0.626	0	FALSE
+Ac3H11_3820	NA	1	scaffold5/0	NA	Sulfate permease	0.6811	4	FALSE
+Ac3H11_3854	NA	1	scaffold5/0	NA	Sulfur carrier protein adenylyltransferase ThiF	0.6813	4	FALSE
+Ac3H11_2381	NA	1	scaffold5/16	NA	Superoxide dismutase [Fe] (EC 1.15.1.1)	0.6117	6	FALSE
+Ac3H11_4326	NA	1	scaffold5/2	NA	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)	0.7122	7	FALSE
+Ac3H11_4367	NA	1	scaffold5/2	NA	TcuR: regulates tcuABC genes used in utilization of tricarballylate	0.7215	2	FALSE
+Ac3H11_2385	NA	1	scaffold5/16	NA	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	0.6882	9	FALSE
+Ac3H11_1058	NA	1	scaffold5/17	NA	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	0.7173	10	FALSE
+Ac3H11_749	NA	1	scaffold5/32	NA	Thiamine-monophosphate kinase (EC 2.7.4.16)	0.7046	5	FALSE
+Ac3H11_1059	NA	1	scaffold5/17	NA	Thiazole biosynthesis protein ThiG	0.6962	7	FALSE
+Ac3H11_1510	NA	1	scaffold5/19	NA	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	0.572	5	FALSE
+Ac3H11_2871	NA	1	scaffold5/16	NA	Thiol-disulfide isomerase and thioredoxins	0.7457	1	FALSE
+Ac3H11_571	NA	1	scaffold5/37	NA	Thioredoxin reductase (EC 1.8.1.9)	0.6676	7	FALSE
+Ac3H11_1700	NA	1	scaffold5/19	NA	Thioredoxin reductase (EC 1.8.1.9)	0.6352	7	FALSE
+Ac3H11_1505	NA	1	scaffold5/19	NA	Threonine synthase (EC 4.2.3.1)	0.6425	14	FALSE
+Ac3H11_2830	NA	1	scaffold5/16	NA	Threonyl-tRNA synthetase (EC 6.1.1.3)	0.6156	33	TRUE
+Ac3H11_2491	NA	1	scaffold5/16	NA	Thymidylate kinase (EC 2.7.4.9)	0.6799	4	FALSE
+Ac3H11_4436	NA	1	scaffold5/1	NA	Thymidylate synthase (EC 2.1.1.45)	0.6304	8	FALSE
+Ac3H11_3138	NA	1	scaffold5/36	NA	Tol biopolymer transport system, TolR protein	0.6317	2	FALSE
+Ac3H11_2485	NA	1	scaffold5/16	NA	tolB protein precursor, periplasmic protein involved in the tonb-independent uptake of group A colicins	0.6497	15	FALSE
+Ac3H11_271	NA	1	scaffold5/29	NA	Topoisomerase IV subunit A (EC 5.99.1.-)	0.6654	19	FALSE
+Ac3H11_273	NA	1	scaffold5/29	NA	Topoisomerase IV subunit B (EC 5.99.1.-)	0.6573	13	FALSE
+Ac3H11_2501	NA	1	scaffold5/16	NA	Transcription accessory protein (S1 RNA-binding domain)	0.6654	12	FALSE
+Ac3H11_4453	NA	1	scaffold5/1	NA	Transcription antitermination protein NusG	0.5628	5	FALSE
+Ac3H11_466	NA	1	scaffold5/10	NA	Transcription termination factor Rho	0.6128	5	FALSE
+Ac3H11_2868	NA	1	scaffold5/16	NA	Transcription termination protein NusA	0.623	4	FALSE
+Ac3H11_3134	NA	1	scaffold5/36	NA	Transcription termination protein NusB	0.6777	4	FALSE
+Ac3H11_3679	NA	1	scaffold5/38	NA	Transcriptional regulator	0.544	33	FALSE
+Ac3H11_3279	NA	1	scaffold5/7	NA	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	0.7554	1	FALSE
+Ac3H11_1910	NA	1	scaffold5/16	NA	Transcriptional regulator SlmA, TetR family	0.7052	3	FALSE
+Ac3H11_3071	NA	1	scaffold5/26	NA	Transcriptional regulator, AsnC family	0.6809	1	FALSE
+Ac3H11_716	NA	1	scaffold5/32	NA	Transcriptional regulator, LuxR family	0.6994	1	FALSE
+Ac3H11_2307	NA	1	scaffold5/16	NA	Transcriptional regulator, MarR family	0.6847	0	FALSE
+Ac3H11_649	NA	1	scaffold5/23	NA	Transketolase (EC 2.2.1.1)	0.6671	14	FALSE
+Ac3H11_2139	NA	1	scaffold5/16	NA	Translation elongation factor G	0.5996	23	FALSE
+Ac3H11_366	NA	1	scaffold5/10	NA	Translation elongation factor P	0.5838	8	FALSE
+Ac3H11_419	NA	1	scaffold5/10	NA	Translation elongation factor Ts	0.6323	3	FALSE
+Ac3H11_2137	NA	1	scaffold5/16	NA	Translation elongation factor Tu	0.6106	18	FALSE
+Ac3H11_2867	NA	1	scaffold5/16	NA	Translation initiation factor 2	0.6426	16	FALSE
+Ac3H11_2829	NA	1	scaffold5/16	NA	Translation initiation factor 3	0.5894	5	FALSE
+Ac3H11_1028	NA	1	scaffold5/25	NA	Translation initiation factor SUI1-related protein	0.6694	0	FALSE
+Ac3H11_4147	NA	1	scaffold5/0	NA	transport-associated	0.6727	0	FALSE
+Ac3H11_754	NA	1	scaffold5/32	NA	Transporter, monovalent cation:proton antiporter-2 (CPA2) family	0.6913	5	FALSE
+Ac3H11_1684	NA	1	scaffold5/19	NA	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)	0.6825	3	FALSE
+Ac3H11_1829	NA	1	scaffold5/16	NA	tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)	0.6957	8	FALSE
+Ac3H11_4372	NA	1	scaffold5/2	NA	tRNA-specific 2-thiouridylase MnmA	0.6559	9	FALSE
+Ac3H11_554	NA	1	scaffold5/10	NA	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-) / domain of unknown function	0.6982	12	FALSE
+Ac3H11_50	NA	1	scaffold5/5	NA	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)	0.6866	4	FALSE
+Ac3H11_1756	NA	1	scaffold5/19	NA	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	0.6759	13	TRUE
+Ac3H11_668	NA	1	scaffold5/23	NA	TsaB protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA	0.729	8	FALSE
+Ac3H11_674	NA	1	scaffold5/23	NA	TsaC protein (YrdC domain) required for threonylcarbamoyladenosine t(6)A37 modification in tRNA	0.7257	4	FALSE
+Ac3H11_3215	NA	1	scaffold5/36	NA	TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA	0.6782	8	FALSE
+Ac3H11_307	NA	1	scaffold5/29	NA	TsaE protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA	0.6513	4	FALSE
+Ac3H11_4741	NA	1	scaffold5/15	NA	Twin-arginine translocation protein TatB	0.6472	3	FALSE
+Ac3H11_4742	NA	1	scaffold5/15	NA	Twin-arginine translocation protein TatC	0.6289	8	FALSE
+Ac3H11_343	NA	1	scaffold5/10	NA	Two-component system response regulator OmpR	0.6667	2	FALSE
+Ac3H11_4799	NA	1	scaffold5/15	NA	Type I antifreeze protein	0.6254	3	FALSE
+Ac3H11_1887	NA	1	scaffold5/16	NA	Type IV fimbrial assembly protein PilC	0.6005	9	FALSE
+Ac3H11_1890	NA	1	scaffold5/16	NA	Type IV pilus biogenesis protein PilN	0.6558	7	FALSE
+Ac3H11_3058	NA	1	scaffold5/26	NA	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	0.6342	11	TRUE
+Ac3H11_4797	NA	1	scaffold5/15	NA	Ubiquinone biosynthesis monooxygenase UbiB	0.6596	7	FALSE
+Ac3H11_4794	NA	1	scaffold5/15	NA	Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-)	0.6175	7	FALSE
+Ac3H11_40	NA	1	scaffold5/5	NA	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)	0.691	4	FALSE
+Ac3H11_428	NA	1	scaffold5/10	NA	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	0.6677	6	FALSE
+Ac3H11_2024	NA	1	scaffold5/16	NA	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	0.6645	9	FALSE
+Ac3H11_1900	NA	1	scaffold5/16	NA	UDP-glucose 4-epimerase (EC 5.1.3.2)	0.6389	9	FALSE
+Ac3H11_2619	NA	1	scaffold5/16	NA	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	0.6638	5	FALSE
+Ac3H11_4721	NA	1	scaffold5/15	NA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	0.6737	4	FALSE
+Ac3H11_2015	NA	1	scaffold5/16	NA	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	0.6714	7	FALSE
+Ac3H11_2017	NA	1	scaffold5/16	NA	UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)	0.6792	9	FALSE
+Ac3H11_2013	NA	1	scaffold5/16	NA	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	0.712	9	FALSE
+Ac3H11_2010	NA	1	scaffold5/16	NA	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6- diaminopimelate ligase (EC 6.3.2.13)	0.6965	11	FALSE
+Ac3H11_2011	NA	1	scaffold5/16	NA	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6- diaminopimelate--D-alanyl-D-alanine ligase (EC 6.3.2.10)	0.7136	5	FALSE
+Ac3H11_3019	NA	1	scaffold5/26	NA	Uncharacterized protein SCO3165	0.6941	0	FALSE
+Ac3H11_422	NA	1	scaffold5/10	NA	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	0.664	3	FALSE
+Ac3H11_1906	NA	1	scaffold5/16	NA	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)	0.6476	13	FALSE
+Ac3H11_420	NA	1	scaffold5/10	NA	Uridine monophosphate kinase (EC 2.7.4.22)	0.6362	8	FALSE
+Ac3H11_874	NA	1	scaffold5/32	NA	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)	0.6712	8	FALSE
+Ac3H11_3551	NA	1	scaffold5/34	NA	Uroporphyrinogen-III synthase (EC 4.2.1.75)	0.7092	6	FALSE
+Ac3H11_3541	NA	1	scaffold5/34	NA	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	0.6667	8	FALSE
+Ac3H11_3542	NA	1	scaffold5/34	NA	Valyl-tRNA synthetase (EC 6.1.1.9)	0.6453	28	TRUE
+Ac3H11_1099	NA	1	scaffold5/33	NA	XdhC protein (assists in molybdopterin insertion into xanthine dehydrogenase)	0.726	1	FALSE
+Ac3H11_3160	NA	1	scaffold5/36	NA	YgfY COG2938	0.6577	1	FALSE
+Ac3H11_2226	NA	1	scaffold5/16	NA	Zinc uptake regulation protein ZUR	0.6901	3	FALSE
+Ac3H11_4755	NA	1	scaffold5/15	NA	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives	0.6067	3	FALSE
