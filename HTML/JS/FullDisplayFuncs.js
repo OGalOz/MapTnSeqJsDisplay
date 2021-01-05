@@ -184,12 +184,12 @@ function Display_Scaffold_EBC_from_name(scf_name, ebcScfInit) {
     // data variable will be scf_name + "EBC"
 
     let func_str = "CreateInitialBCDisplay(BCdefaults, " + 
-                        scf_name + "EBC, scf_name, organism_name)" ;
+                        "EBC_data_" + scf_name + ", scf_name, organism_name)" ;
 
     newScript.addEventListener('load', function() {
         ClearEntireDisplay()
         eval(func_str); 
-        ReplaceCurrentMainDataVariable(scf_name + "EBC", "EBC")
+        ReplaceCurrentMainDataVariable("EBC_data_" + scf_name, "EBC")
     });
 }
 

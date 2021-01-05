@@ -76,7 +76,7 @@ def CreateCompleteHTML_dir(genome_fna_fp, genes_table_fp, poolfile_fp, op_dir, g
     #MH Plot Data
     MH_dir = os.path.join(op_dir, "JS","MH")
     MH_data_fp = os.path.join(MH_dir, "MH_Data.js")
-    PosScfBCDataToZScrPointsForValues(scfPosBC_fp, MH_data_fp, "1")
+    PosScfBCDataToZScrPointsForValues(scfPosBC_fp, MH_data_fp, "0")
 
     print("finished creating files at " + op_dir)
 

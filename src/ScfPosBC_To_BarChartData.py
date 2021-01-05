@@ -116,7 +116,7 @@ def ScfPosBC_Info_To_Scaffolds(ScfPosBC_fp, tick_range_threshold, gene_table_fp,
 
         # Now we write out scf_EBC_data_d
         with open(os.path.join(op_dir, fn_scf_name), "w") as f:
-            f.write("window." + fixed_scf_name + "EBC = " + json.dumps(scf_EBC_data_d))
+            f.write("window." + "EBC_data_" + fixed_scf_name + " = " + json.dumps(scf_EBC_data_d))
 
         # complete_ticks_data_d["scaffolds"][scaffold_name] = full_tick_data_d
 
